@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.hackerrank.com/vkvikashkumar987"><img align="left"vikash-kumar-hacker-rank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /></a>
-    <a href="https://www.linkedin.com/in/vikash-kumar85/"><img align="left"vikash-kumar-linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-    <a href="https://www.freecodecamp.org/fcce706538e-9c84-4b4c-9058-17f4f3bf6592"><img align="left"vikash-kumar-freecodecamp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freecodecamp.svg" /></a>
+    <a href="https://www.hackerrank.com/vkvikashkumar987"><img align="left"vikash-kumar-hacker-rank" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /></a>
+    <a href="https://www.linkedin.com/in/vikash-kumar85/"><img align="left"vikash-kumar-linkedin" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+    <a href="https://www.freecodecamp.org/fcce706538e-9c84-4b4c-9058-17f4f3bf6592"><img align="left"vikash-kumar-freecodecamp" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freecodecamp.svg" /></a>
 
 
 </p>
