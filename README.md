@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vikashvsp](https://github.com/vikashvsp)
 
-- 💬 Ask me about ** C Java HTML CSS JavaScript **
+- 💬 Ask me about C Java HTML CSS JavaScript 
 
-- 📫 How to reach me **vkvikashkumar987@gmail.com**
+- 📫 How to reach me *vkvikashkumar987@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
