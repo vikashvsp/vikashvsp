@@ -20,6 +20,7 @@
     <a href="https://www.linkedin.com/in/vikash-kumar85/"><img align="left"vikash-kumar-linkedin" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
     <a href="https://www.hackerrank.com/vkvikashkumar987"><img align="left"vikash-kumar-hacker-rank" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /></a>
     <a href="https://www.freecodecamp.org/fcce706538e-9c84-4b4c-9058-17f4f3bf6592"><img align="left"vikash-kumar-freecodecamp" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freecodecamp.svg" /></a>
+    <a href="https://twitter.com/_brownboy_85"><img align="left"vikash-kumar-twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 
 
 </p>
@@ -31,6 +32,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="git" width="40" height="40"/> </a> 
    
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
