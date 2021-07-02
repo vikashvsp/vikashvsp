@@ -7,22 +7,21 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikashvsp&theme=nord" alt="vikashvsp" /></a> </p>
 <img align="right" alt="Coder" width="500" src="https://www.ravsanmedia.com/web_assets/images/website.gif">
 
-- 🌱 I’m currently Studying at **VTU Banglore**
+- 🌱 I’m currently Studying at **Acharya institute of technology**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vikashvsp](https://github.com/vikashvsp)
 
-- 💬 Ask me about C Java HTML CSS JavaScript 
+- 💬 Ask me about C Java HTML CSS JavaScript Git
 
 - 📫 How to reach me *vkvikashkumar987@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/vikash-kumar85/"><img align="left"vikash-kumar-linkedin" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+    <a href="https://twitter.com/_brownboy_85"><img align="left"vikash-kumar-twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
     <a href="https://www.hackerrank.com/vkvikashkumar987"><img align="left"vikash-kumar-hacker-rank" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /></a>
     <a href="https://www.freecodecamp.org/fcce706538e-9c84-4b4c-9058-17f4f3bf6592"><img align="left"vikash-kumar-freecodecamp" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freecodecamp.svg" /></a>
-    <a href="https://twitter.com/_brownboy_85"><img align="left"vikash-kumar-twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-
-
+    <a href="https://www.udemy.com/share/100F3u2@PW1gbF1eS10OdkdEEkhNVD4=/?xref=2%40FEdKVEtIS1MKck5CB3NxTnoIBDg0GRIETCZUeztLTQ%3D%3D"><img align="left"vikash-kumar-udemy" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/udemy.svg" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
@@ -45,4 +44,3 @@
 
 
 </body>
-
