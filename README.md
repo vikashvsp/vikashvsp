@@ -34,13 +34,4 @@
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="git" width="40" height="40"/> </a> 
    
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=vikashvsp&show_icons=true&include_all_commits=true&theme=onedark" alt="vikashvsp's github stats" />
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikashvsp&show_icons=true&locale=en&layout=compact&theme=onedark" alt="vikashvsp"/> -->
-  
-
-    
-</a>
-
-
 </body>
