@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vikashvsp](https://github.com/vikashvsp)
 
-- 💬 Ask me about C Java HTML CSS JavaScript Git
+- 💬 Ask me about C Python HTML CSS JavaScript React Git Flask
 
 - 📫 How to reach me *vkvikashkumar987@gmail.com*
 
